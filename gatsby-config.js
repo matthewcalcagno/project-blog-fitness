@@ -19,7 +19,7 @@ module.exports = {
       resolve: 'gatsby-plugin-robots-txt',
       options: {
         host: 'https://yourfitpal.netlify.app',
-        sitemap: 'hhttps://yourfitpal.netlify.app/sitemap.xml',
+        sitemap: 'https://yourfitpal.netlify.app/sitemap.xml',
         resolveEnv: () => process.env.GATSBY_ENV,
         env: {
           development: {
