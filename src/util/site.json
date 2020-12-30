@@ -1,12 +1,12 @@
 {
   "meta": {
-    "title": "Foundation",
+    "title": "Your Fit Pal",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
-    "siteUrl": "https://foundation.stackrole.com",
-    "image": "/assets/stackrole.png",
-    "iconimage": "/assets/stackrole.png",
-    "twitterUsername": "@stackrole"
+    "description": "A blog dedicated to create fitness articles, workout plans and other physical education related content to help you reach your greatest potential.",
+    "siteUrl": "https://yourfitpal.netlify.app",
+    "image": "/assets/your-fit-pal-logo.png",
+    "iconimage": "/assets/your-fit-pal-favicon.png",
+    "twitterUsername": ""
   },
   "ga": "UA-XXXXXXXXX-X"
 }
