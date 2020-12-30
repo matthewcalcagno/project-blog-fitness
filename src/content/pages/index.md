@@ -8,4 +8,4 @@ cta:
   ctaText: TAKE A LOOK AT OUR ARTICLES
   ctaLink: /blog
 ---
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+We are dedicated to create fitness articles, workout plans and other physical education related content to help you reach your greatest potential.
