@@ -90,7 +90,7 @@ class BlogIndex extends React.Component {
     
     const { data } = this.props
     const { currentPage, numPages } = this.props.pageContext
-    const blogSlug = '' 
+    const blogSlug = '/blog/' 
     const isFirst = currentPage === 1
     const isLast = currentPage === numPages
     const prevPage = currentPage - 1 === 1 ? blogSlug : blogSlug + (currentPage - 1).toString()
@@ -115,7 +115,7 @@ class BlogIndex extends React.Component {
       <Layout className="blog-page">
         <SEO
           title={"Blog — Page " + currentPage + " of " + numPages}
-          description={"Stackrole base blog page " + currentPage + " of " + numPages }
+          description={"YourFitPal list of fitness articles - currently on page " + currentPage + " of " + numPages }
         />
         <h1>Blog</h1>
         <div className="grids col-1 sm-2 lg-3">

@@ -3,7 +3,9 @@ import { jsx } from 'theme-ui'
 import { Link } from "gatsby"
 import Img from "gatsby-image"
 
+
 const PostCard = ({ data }) => (
+  
   <article 
     className="post-card"
     sx={{
@@ -12,7 +14,7 @@ const PostCard = ({ data }) => (
   >
     {data.frontmatter.featuredImage ? 
       (
-        <Link to={data.frontmatter.slug}>
+        <Link to={"/" + data.frontmatter.slug}>
           <Img 
             fluid={data.frontmatter.featuredImage.childImageSharp.fluid} 
             objectFit="cover"
