@@ -11,7 +11,7 @@ const Footer = () => (
     }}
   >
     <div className="container">
-      <p>© Copyright YourFitPal 2021 </p>
+      <p>© Copyright Yenom 2021 </p>
     </div>
   </footer>
 )

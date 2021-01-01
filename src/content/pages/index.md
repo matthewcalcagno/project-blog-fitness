@@ -1,11 +1,11 @@
 ---
 template: index-page
 slug: /
-title: The only place for your fitness articles
-tagline: Find articles related to health and fitness
+title: Thoughts, stories and ideas.
+tagline: Find articles related to lifestyle and wealth
 featuredImage: /assets/your-fit-pal-home-image.jpg
 cta:
-  ctaText: TAKE A LOOK AT OUR ARTICLES
-  ctaLink: /blog
+  ctaText: Read more about us
+  ctaLink: /about
 ---
-We are dedicated to create fitness articles, workout plans and other physical education related content to help you reach your greatest potential.
+Read about new ways to make extra income online. We do all the experimenting so you don't have to.

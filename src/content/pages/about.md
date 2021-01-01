@@ -1,6 +1,6 @@
 ---
 template: about-page
 slug: /about
-title: About YourFitPal
+title: About Yenom
 ---
-We are health and fitnes enthusiast
+We experiment ways to make money online and teach people how to do it.
