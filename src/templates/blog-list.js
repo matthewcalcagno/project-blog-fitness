@@ -60,7 +60,7 @@ const Pagination = (props) => (
     <ul>
       {!props.isFirst && (
         <li>
-          <Link to={props.prevPage} rel="prev">
+          <Link to={"/" + props.prevPage} rel="prev">
           <span className="icon -left"><RiArrowLeftLine/></span> Previous
           </Link>
         </li>
@@ -68,7 +68,7 @@ const Pagination = (props) => (
       {Array.from({ length: props.numPages }, (_, i) => (
         <li key={`pagination-number${i + 1}`} >
           <Link
-            to={`${props.blogSlug}${i === 0 ? '' : i + 1}`}
+            to={"/" +`${props.blogSlug}${i === 0 ? '' : i + 1}`}
             className={props.currentPage === i + 1 ? "is-active num" : "num"}
           >
             {i + 1}
@@ -77,7 +77,7 @@ const Pagination = (props) => (
       ))}
       {!props.isLast && (
         <li>
-          <Link to={props.nextPage} rel="next">
+          <Link to={"/" + props.nextPage} rel="next">
             Next <span className="icon -right"><RiArrowRightLine/></span>
           </Link>
         </li>
