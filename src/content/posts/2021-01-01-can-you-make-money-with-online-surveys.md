@@ -46,6 +46,36 @@ Companies run surveys to try and learn more about their consumers so they can pr
 
 <!--StartFragment-->
 
+## Which online surveys provider pay the most
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
+PayScale's research shows that SurveyMonkey scored highest for salary, and Zendesk came in last. The study also found that SurveyMonkey was the top choice for evaluating customer service.
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
+Kudos to SurveyMonkey for achieving top-notch results with a service that is actually free. The real question is: what has SurveyMonkey done to raise its profile as a top choice for online survey testing? They do not sell your information to third party companies. They actually care for the people who answer the surveys.
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
+## How much money can you make with online surveys
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
+While you probably won't become rich taking online surveys, it is possible to make it as a side hustle. From making little money on the side to making big money on the side. A side hustle could change your life. So, consider taking the plunge and see what happens.
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 ## How to make money with online surveys
 
 <!--EndFragment-->
@@ -141,37 +171,5 @@ After completing your survey, SurveyMonkey will send you an email asking to give
 <!--StartFragment-->
 
 These surveys are free, but you will receive credit for participating. It’s important to note that surveys are anonymous, but surveys are sent in groups. So you will receive information about who took the survey in your email.
-
-<!--EndFragment-->
-
-
-
-<!--StartFragment-->
-
-## Which online surveys provider pay the most
-
-<!--EndFragment-->
-
-<!--StartFragment-->
-
-PayScale's research shows that SurveyMonkey scored highest for salary, and Zendesk came in last. The study also found that SurveyMonkey was the top choice for evaluating customer service.
-
-<!--EndFragment-->
-
-<!--StartFragment-->
-
-Kudos to SurveyMonkey for achieving top-notch results with a service that is actually free. The real question is: what has SurveyMonkey done to raise its profile as a top choice for online survey testing? They do not sell your information to third party companies. They actually care for the people who answer the surveys.
-
-<!--EndFragment-->
-
-<!--StartFragment-->
-
-## How much money can you make with online surveys
-
-<!--EndFragment-->
-
-<!--StartFragment-->
-
-While you probably won't become rich taking online surveys, it is possible to make it as a side hustle. From making little money on the side to making big money on the side. A side hustle could change your life. So, consider taking the plunge and see what happens.
 
 <!--EndFragment-->
