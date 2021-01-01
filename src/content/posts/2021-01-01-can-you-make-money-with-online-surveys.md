@@ -21,7 +21,7 @@ While everyone is aware of how profitable surveys can be, they’re still a myst
 
 <!--StartFragment-->
 
-## What’s a survey?
+## What’s a survey
 
 <!--EndFragment-->
 
@@ -147,7 +147,7 @@ These surveys are free, but you will receive credit for participating. It’s im
 
 <!--StartFragment-->
 
-## Which online surveys provider pay the most?
+## Which online surveys provider pay the most
 
 <!--EndFragment-->
 
@@ -160,5 +160,17 @@ PayScale's research shows that SurveyMonkey scored highest for salary, and Zende
 <!--StartFragment-->
 
 Kudos to SurveyMonkey for achieving top-notch results with a service that is actually free. The real question is: what has SurveyMonkey done to raise its profile as a top choice for online survey testing? They do not sell your information to third party companies. They actually care for the people who answer the surveys.
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
+## How much money can you make with online surveys
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
+While you probably won't become rich taking online surveys, but it is possible to make it as a side hustle. From making little money on the side to making big money on the side. A side hustle could change your life. So, consider taking the plunge and see what happens.
 
 <!--EndFragment-->
