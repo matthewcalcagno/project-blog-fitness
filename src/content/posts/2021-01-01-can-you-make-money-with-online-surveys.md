@@ -25,9 +25,7 @@ While everyone is aware of how profitable surveys can be, they’re still a myst
 
 <!--EndFragment-->
 
-<!--StartFragment-->
-
-\
+<!--StartFragment-->\
 Surveys are simply the act of asking questions, and most of the people taking them are really interested in the answers. Surveys come in various forms, such as text-based, audio, video, and graphics. The job of a survey is to gather data from participants, usually by asking multiple questions to a person at the same time.
 
 <!--EndFragment-->
@@ -41,12 +39,6 @@ For example, say you want to know why more and more couples in their 20s are liv
 <!--StartFragment-->
 
 Companies run surveys to try and learn more about their consumers so they can provide the best experience possible.
-
-<!--EndFragment-->
-
-<!--StartFragment-->
-
-Over a third of Americans now pay for something in order to read a blog. Surveys are becoming one of the most important ways for companies to reach their audiences. It’s also one of the most successful marketing strategies ever.
 
 <!--EndFragment-->
 
