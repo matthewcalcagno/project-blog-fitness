@@ -45,7 +45,7 @@ Companies run surveys to try and learn more about their consumers so they can pr
 
 <!--StartFragment-->
 
-How to Earn
+## 2. How to make money with online surveys
 
 <!--EndFragment-->
 
