@@ -15,72 +15,26 @@ One of the easiest ways to make money online is to take surveys. There’s littl
 
 <!--StartFragment-->
 
-While everyone is aware of how profitable surveys can be, they’re still a mystery to many. So I wanted to help people understand the tricks of the trade.
+While everyone is aware of how profitable surveys can be, they’re still a mystery to many. So I want to help people understand the tricks of the trade.
 
 <!--EndFragment-->
 
+<!--StartFragment-->
 
+## 1. What’s a survey?
+
+<!--EndFragment-->
 
 <!--StartFragment-->
 
 \
-1. What’s a survey?
+Surveys are simply the act of asking questions, and most of the people taking them are really interested in the answers. Surveys come in various forms, such as text-based, audio, video, and graphics. The job of a survey is to gather data from participants, usually by asking multiple questions to a person at the same time.
 
 <!--EndFragment-->
 
 <!--StartFragment-->
 
-Surveys, from a dictionary definition, are written items that people sign-up for in order to take part. The easiest way to understand this concept is through the example below:
-
-<!--EndFragment-->
-
-<!--StartFragment-->
-
-Now take a moment to think about your favorite social media site. In my case, it’s Reddit. What do people do there?
-
-<!--EndFragment-->
-
-<!--StartFragment-->
-
-Aside from reading about news stories and the posts that their fellow Redditors have made, people comment on the content.
-
-<!--EndFragment-->
-
-<!--StartFragment-->
-
-As a result, Reddit users will often post an “Upvote” or “Downvote” for posts that they feel are the most interesting, entertaining or important.
-
-<!--EndFragment-->
-
-<!--StartFragment-->
-
-So the next time you’re on Reddit, what is it that you’re scrolling through? Reddit is actually full of a bunch of different posts. To get to the one you’re looking for, you’ll first need to scroll through the comments. This is where most Reddit users get their daily news fix.
-
-<!--EndFragment-->
-
-<!--StartFragment-->
-
-Now take a moment to think about how much it would cost you to spend 2-3 hours in Reddit and read the most interesting posts. You might be surprised. Most users, especially at large sites like Reddit, don’t spend much time there. And it’s almost like there’s a giant whisper box in the background of everything you see.
-
-<!--EndFragment-->
-
-
-
-<!--StartFragment-->
-
-It’s where users submit links and sometimes say something in the comments.
-
-<!--EndFragment-->
-
-<!--StartFragment-->
-
-So once you’ve come up with the answer, you can apply it to surveys. A survey is something you sign up for in order to get a chance to participate in it.
-
-<!--EndFragment-->
-
-<!--StartFragment-->
-
-So once you’ve come up with the answer, you can apply it to surveys. A survey is something you sign up for in order to get a chance to participate in it.
+For example, say you want to know why more and more couples in their 20s are living together as opposed to getting married. The best way to do this is by polling your audience with multiple questions. This will give you more data to work with.
 
 <!--EndFragment-->
 
@@ -126,8 +80,6 @@ Here’s a quick breakdown of how much you can earn for each survey:
 
 <!--EndFragment-->
 
-
-
 <!--StartFragment-->
 
 The Minimum $1 is for a basic survey
@@ -139,8 +91,6 @@ The Minimum $1 is for a basic survey
 $5 will get you a premium survey
 
 <!--EndFragment-->
-
-
 
 <!--StartFragment-->
 
@@ -159,8 +109,6 @@ $20 will get you a “Gold-Plus” survey (the highest form of premium I’m awa
 But don’t think you have to pay all of those prices in order to get your questions answered.
 
 <!--EndFragment-->
-
-
 
 <!--StartFragment-->
 
