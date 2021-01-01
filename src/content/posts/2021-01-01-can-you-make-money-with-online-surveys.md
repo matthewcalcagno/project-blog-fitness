@@ -3,13 +3,14 @@ template: blog-post
 title: Can You Make Money With Online Surveys
 slug: can-you-make-money-with-online-surveys
 date: 2021-01-01 12:40
-description: Can you make money from surveys in 2021?  Yes!  Believe it or not,
-  it is very doable to make some passive income with online surveys
+description: An easy way to make money online in 2021 is to take online surveys.
+  You don't need to have any special skills or knowledge to start. You can
+  easily earn money doing as little as ten minutes per day.
 featuredImage: /assets/making-money-online-with-surveys.jpg
 ---
 <!--StartFragment-->
 
-An easy way to make money online is to take online surveys. You don't need to have any special skills or knowledge to start. You can easily earn a couple of hundred dollars doing as little as ten minutes per day.
+An easy way to make money online is to take online surveys. You don't need to have any special skills or knowledge to start. You can easily earn money doing as little as ten minutes per day.
 
 <!--EndFragment-->
 
