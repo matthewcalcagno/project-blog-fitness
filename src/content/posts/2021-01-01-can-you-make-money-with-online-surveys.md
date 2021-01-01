@@ -25,7 +25,8 @@ While everyone is aware of how profitable surveys can be, they’re still a myst
 
 <!--EndFragment-->
 
-<!--StartFragment-->\
+<!--StartFragment-->
+
 Surveys are simply the act of asking questions, and most of the people taking them are really interested in the answers. Surveys come in various forms, such as text-based, audio, video, and graphics. The job of a survey is to gather data from participants, usually by asking multiple questions to a person at the same time.
 
 <!--EndFragment-->
