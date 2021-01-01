@@ -63,7 +63,7 @@ It’s really simple to make money with online surveys. All you need to do is fi
 
 <!--StartFragment-->
 
-Find a survey that has the information you’re looking for. SurveyMonkey, a leading provider of surveys, has over 300,000 surveys available, such as your average car mileage, how much money people spend on coffee, or whether you’re single or married.
+Find a survey that has the information you’re looking for. Let's use SurveyMonkey as an example. SurveyMonkey is a leading provider of surveys, has over 300,000 surveys available, such as your average car mileage, how much money people spend on coffee, or whether you’re single or married.
 
 <!--EndFragment-->
 
@@ -81,7 +81,7 @@ All you need to do is find a survey you’re interested in and then sign up.
 
 <!--StartFragment-->
 
-Now that you’ve signed up, you’re ready to start filling out surveys. When you sign up, SurveyMonkey will ask you for a profile, which is just your name and email. They also will ask how you like to communicate (in person, over email, on social media, etc.), the purpose of the survey (is it for the company, the government, or to become an affiliate), and your age and gender.
+Now that you’ve signed up, you’re ready to start filling out surveys. When you sign up, SurveyMonkey will ask you for a profile, which is just your name and email. They also will ask how you like to communicate (in person, over email, on social media, etc.), the purpose of the survey (is it for the company, the government, or to become an affiliate), your age and gender.
 
 <!--EndFragment-->
 
