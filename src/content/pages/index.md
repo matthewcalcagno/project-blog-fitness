@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Thoughts, stories and ideas.
 tagline: Find articles related to lifestyle and wealth
-featuredImage: /assets/your-fit-pal-home-image.jpg
+featuredImage: /assets/yenom-home.jpg
 cta:
   ctaText: Read more about us
   ctaLink: /about
