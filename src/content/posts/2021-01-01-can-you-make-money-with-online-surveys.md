@@ -171,6 +171,6 @@ Kudos to SurveyMonkey for achieving top-notch results with a service that is act
 
 <!--StartFragment-->
 
-While you probably won't become rich taking online surveys, but it is possible to make it as a side hustle. From making little money on the side to making big money on the side. A side hustle could change your life. So, consider taking the plunge and see what happens.
+While you probably won't become rich taking online surveys, it is possible to make it as a side hustle. From making little money on the side to making big money on the side. A side hustle could change your life. So, consider taking the plunge and see what happens.
 
 <!--EndFragment-->
