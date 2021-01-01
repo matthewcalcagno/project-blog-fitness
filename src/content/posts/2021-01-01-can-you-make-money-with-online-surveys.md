@@ -159,12 +159,6 @@ PayScale's research shows that SurveyMonkey scored highest for salary, and Zende
 
 <!--StartFragment-->
 
-Kudos to SurveyMonkey for achieving top-notch results with a product that is actually free. The real question is: what has SurveyMonkey done to raise its profile as a top choice for online survey testing? The company can increase its reputation by speaking with the media about its survey platform and to thought leaders in the company. SurveyMonkey should also be engaging in employee and manager communication and training to instill better survey expertise. If all that was required of SurveyMonkey was to let customers use its platform for free, the company would not need a tech news announcement or awards to support its positioning as a valued partner for the customer service community.
-
-<!--EndFragment-->
-
-<!--StartFragment-->
-
-We live in a society where customer experience is paramount. Great companies compete on customer experience. To be better, SurveyMonkey needs to keep innovating and evolving its offerings to allow for better measurement of customer satisfaction. When the company can offer customers the same service for free that it charges for, it can then earn credit for the time it spent building a business based on that service. In doing so, SurveyMonkey may grow in importance and earn more respect from customers.
+Kudos to SurveyMonkey for achieving top-notch results with a service that is actually free. The real question is: what has SurveyMonkey done to raise its profile as a top choice for online survey testing? They do not sell your information to third party companies. They actually care for the people who answer the surveys.
 
 <!--EndFragment-->
