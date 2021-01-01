@@ -1,10 +1,10 @@
 {
   "meta": {
-    "title": "Your Fit Pal",
+    "title": "YENOM",
     "titleTemplate": "%s",
     "description": "A blog dedicated to create fitness articles, workout plans and other physical education related content to help you reach your greatest potential.",
-    "siteUrl": "https://yourfitpal.netlify.app",
-    "image": "/assets/your-fit-pal-logo.png",
+    "siteUrl": "https://yenom.netlify.app",
+    "image": "/assets/yenom-nav.png",
     "iconimage": "/assets/your-fit-pal-favicon.png",
     "twitterUsername": ""
   },
