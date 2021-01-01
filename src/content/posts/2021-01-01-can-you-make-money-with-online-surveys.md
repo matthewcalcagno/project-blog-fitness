@@ -21,7 +21,7 @@ While everyone is aware of how profitable surveys can be, they’re still a myst
 
 <!--StartFragment-->
 
-## 1. What’s a survey?
+## What’s a survey?
 
 <!--EndFragment-->
 
@@ -45,180 +45,112 @@ Companies run surveys to try and learn more about their consumers so they can pr
 
 <!--StartFragment-->
 
-## 2. How to make money with online surveys
+## How to make money with online surveys
 
 <!--EndFragment-->
 
 <!--StartFragment-->
 
-Most people aren’t aware that they can generate money from surveys. But once you know how it works, it’s easy to make more money.
+It’s really simple to make money with online surveys. All you need to do is find an online survey, go through the questions, and answer the ones you’re qualified for. Here’s how to get started.
 
 <!--EndFragment-->
 
 <!--StartFragment-->
 
-First, when you sign up for an ad-funded survey, you’ll likely be sent one or two offers a day. These offers may be for something specific like a product you’ve never heard of or for a company you’ve never heard of.
+### Step 1: Find the right survey
 
 <!--EndFragment-->
 
 <!--StartFragment-->
 
-That’s why, for now, I recommend you go for the survey that takes less time to complete, because you’ll likely make more money this way.
+Find a survey that has the information you’re looking for. SurveyMonkey, a leading provider of surveys, has over 300,000 surveys available, such as your average car mileage, how much money people spend on coffee, or whether you’re single or married.
 
 <!--EndFragment-->
 
 <!--StartFragment-->
 
-Here’s a quick breakdown of how much you can earn for each survey:
+All you need to do is find a survey you’re interested in and then sign up.
 
 <!--EndFragment-->
 
 <!--StartFragment-->
 
-The Minimum $1 is for a basic survey
+### Step 2: Fill out the survey
 
 <!--EndFragment-->
 
 <!--StartFragment-->
 
-$5 will get you a premium survey
+Now that you’ve signed up, you’re ready to start filling out surveys. When you sign up, SurveyMonkey will ask you for a profile, which is just your name and email. They also will ask how you like to communicate (in person, over email, on social media, etc.), the purpose of the survey (is it for the company, the government, or to become an affiliate), and your age and gender.
 
 <!--EndFragment-->
 
 <!--StartFragment-->
 
-$10 will get you a “Super-Premium” survey (in reality, it’s not a survey)
+Once you’ve filled out the questionnaire, SurveyMonkey will prompt you to enter your email address so you’ll be able to receive reminders. They won’t send you surveys unless you’re registered and given permission to access them.
 
 <!--EndFragment-->
 
 <!--StartFragment-->
 
-$20 will get you a “Gold-Plus” survey (the highest form of premium I’m aware o
+Before you start filling out surveys, don’t forget to look at the privacy policy to make sure the site isn’t going to share your personal information with another company. You’ll also want to read the questions so you understand them and avoid having a bad experience.
 
 <!--EndFragment-->
 
 <!--StartFragment-->
 
-But don’t think you have to pay all of those prices in order to get your questions answered.
+After filling out the surveys, SurveyMonkey will send you a message notifying you that surveys are available for you to fill out.
 
 <!--EndFragment-->
 
 <!--StartFragment-->
 
-If a question can be answered through one of the paid surveys, it’s usually just as easy to get the answer without spending any money.
+### Step 3: Answer the surveys
 
 <!--EndFragment-->
 
 <!--StartFragment-->
 
-Here’s an example. I recently created a survey for a different web-based business, and their survey didn’t have enough questions to fill the page. So I created a free survey for my company.
+Once you start filling out surveys, take your time.
 
 <!--EndFragment-->
 
 <!--StartFragment-->
 
-After people completed the first free survey, they were then offered the premium survey. And because the premium survey didn’t have enough questions, it didn’t make sense to use.
+People who are involved in surveys usually know the answers they want to give, and often, they are not interested in taking the survey at all. So don’t take more than 15 minutes per survey.
+
+<!--EndFragment-->
+
+
+
+<!--StartFragment-->
+
+Step 4: Track your surveys
+
+<!--EndFragment-->
+
+
+
+<!--StartFragment-->
+
+After completing your survey, SurveyMonkey will send you an email asking to give them feedback. This means you’ll have another opportunity to rate the survey and rate the responses of other respondents. You can track your responses on an online dashboard.
 
 <!--EndFragment-->
 
 <!--StartFragment-->
 
-But the result is that the company got 20 new new customers at no cost.
+These surveys are free, but you will receive credit for participating. It’s important to note that surveys are anonymous, but surveys are sent in groups. So you will receive information about who took the survey in your email.
 
 <!--EndFragment-->
 
 <!--StartFragment-->
 
-Here’s what a survey could look like:
+The next time you are in need of data, use a survey to help you make better decisions.
 
 <!--EndFragment-->
 
 <!--StartFragment-->
 
-The $1 survey is for a simple product or service.
-
-<!--EndFragment-->
-
-<!--StartFragment-->
-
-The $5 survey is for a more complex product or service.
-
-<!--EndFragment-->
-
-<!--StartFragment-->
-
-The $10 survey is for a custom solution.
-
-<!--EndFragment-->
-
-<!--StartFragment-->
-
-The $20 survey is for the full solution.
-
-<!--EndFragment-->
-
-<!--StartFragment-->
-
-The $20 survey is for a custom solution.
-
-<!--EndFragment-->
-
-<!--StartFragment-->
-
-Note: I did not pay for this survey.
-
-<!--EndFragment-->
-
-<!--StartFragment-->
-
-When you use the “Ask” button, you’re often asked to create an account with that website. After creating an account, they can send you offers to get paid for surveys on their website.
-
-<!--EndFragment-->
-
-<!--StartFragment-->
-
-You can also create your own websites and generate free traffic by offering free surveys. Once a survey is closed, they’ll automatically send you a link to either their site or social network profile.
-
-<!--EndFragment-->
-
-<!--StartFragment-->
-
-And you can also create your own surveys and have them available on your social media profiles.
-
-<!--EndFragment-->
-
-<!--StartFragment-->
-
-This allows you to send out surveys to a wide variety of people.
-
-<!--EndFragment-->
-
-<!--StartFragment-->
-
-The future is bright for surveys. So don’t think about it as a side job or something you can do when you’re bored.
-
-<!--EndFragment-->
-
-<!--StartFragment-->
-
-Think of it as a long-term career you can start on your own time. It’s been shown that the average American respondent completes two surveys in a single week, and nearly one in five complete five surveys.
-
-<!--EndFragment-->
-
-<!--StartFragment-->
-
-After all, studies show that people who participate in surveys are 1.2 times more likely to make a purchase from a company that offered them the survey.
-
-<!--EndFragment-->
-
-<!--StartFragment-->
-
-Surveys can be a way for you to earn money while still being part of a community. So don’t put it off. Take the time to create a killer survey.
-
-<!--EndFragment-->
-
-<!--StartFragment-->
-
-And once you start making money, you’ll have the power to create and distribute more surveys until you can quit your day job.
+With the right approach, it’s easy to make money with online surveys.
 
 <!--EndFragment-->
