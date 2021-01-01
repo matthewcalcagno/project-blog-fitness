@@ -2,10 +2,10 @@
   "meta": {
     "title": "Yenom",
     "titleTemplate": "%s",
-    "description": "A blog dedicated to create fitness articles, workout plans and other physical education related content to help you reach your greatest potential.",
+    "description": "Read about new ways to make extra income online. We do all the experimenting so you don't have to.",
     "siteUrl": "https://yenom.netlify.app",
     "image": "/assets/yenom-nav.png",
-    "iconimage": "/assets/your-fit-pal-favicon.png",
+    "iconimage": "/assets/yenom-favicon.png",
     "twitterUsername": ""
   },
   "ga": "G-002NR2H1HV"
