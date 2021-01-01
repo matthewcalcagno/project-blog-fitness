@@ -5,7 +5,7 @@ slug: can-you-make-money-with-online-surveys
 date: 2021-01-01 12:40
 description: Can you make money from surveys in 2021?  Yes!  Believe it or not,
   it is very doable to make some passive income with online surveys
-featuredImage: /assets/make-money-online-with-surveys.jpg
+featuredImage: /assets/making-money-online-with-surveys.jpg
 ---
 <!--StartFragment-->
 
