@@ -9,7 +9,7 @@ description: >
   bit of passive income every month.
 featuredImage: /assets/how-to-start-a-blog.jpg
 ---
-If you've been reading online about how to make money online, you have probably heard at some point to start a blog. And while blogging may seem hard at first, you can 
+If you've been reading online about how to make money online, you have probably heard at some point to start a blog. And while blogging may seem hard at first, you can get started quickly and easily.
 
 <!--StartFragment-->
 
