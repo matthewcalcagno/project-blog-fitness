@@ -479,8 +479,6 @@ You can get thousands of visitors to your site, just by  accepting a few guest p
 
 For example, if you have a Wordpress plugins niche, and someone wants to sell their latest and greatest Wordpress plugin, they will pay you to allow them to guest post.
 
-a lot of visitors.
-
 <!--EndFragment-->
 
 <!--StartFragment-->
