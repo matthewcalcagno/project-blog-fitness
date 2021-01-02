@@ -451,11 +451,13 @@ Here are some of the ways you can make money from your email list:
 * Giveaways
 * Amazon
 * A small fee to get added to an exclusive newsletter list
-* Use your list to create a monthly report
+* Use your list to create a monthly repor
 
-  ### Paid monetization
+<!--EndFragment-->
 
 <!--StartFragment-->
+
+### Paid monetization
 
 Most of the time, people will not pay for guest posts on blogs that they don’t know, because they don’t think you can earn anything from it.
 
