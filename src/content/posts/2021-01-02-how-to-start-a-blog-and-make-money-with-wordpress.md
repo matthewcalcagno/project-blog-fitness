@@ -9,13 +9,11 @@ description: >
   bit of passive income every month.
 featuredImage: /assets/how-to-start-a-blog.jpg
 ---
-If you've been reading online about how to make money online, you have probably heard at some point to start a blog. And while blogging may seem hard at first, you can 
-
-
+If you've been reading online about how to make money online, you have probably heard at some point to start a blog. And while blogging may seem hard at first, you can get started quickly and easily.
 
 <!--StartFragment-->
 
-Why Blog and How to Start It
+## Why Blog and How to Start It
 
 <!--EndFragment-->
 
@@ -66,8 +64,6 @@ But don’t worry. I’m going to show you how to make money by blogging for beg
 First of all, it’s quite easy to start a blog that attracts a large audience and brings you a bit of passive income every month.
 
 <!--EndFragment-->
-
-
 
 <!--StartFragment-->
 
@@ -159,8 +155,6 @@ Now, to get into the steps of making money from a blog, let’s look at what you
 
 <!--EndFragment-->
 
-
-
 <!--StartFragment-->
 
 ## Here’s How to Start a Blog for Beginners
@@ -196,8 +190,6 @@ First of all, get some idea about what you want to achieve. What do you want you
 ## Creating a Wordpress blog
 
 <!--EndFragment-->
-
-
 
 <!--StartFragment-->
 
@@ -301,8 +293,6 @@ And now the most important part, how to monetize your blog.
 
 <!--EndFragment-->
 
-
-
 <!--StartFragment-->
 
 If you want to make money with your blog, you need to start thinking about monetizing your blog, or figuring out how to make money with it.
@@ -365,8 +355,6 @@ If you don’t want to lose your readership, start with free monetization.
 
 <!--EndFragment-->
 
-
-
 <!--StartFragment-->
 
 ### Free monetization
@@ -416,8 +404,6 @@ Basically, affiliate links are just regular links that are already being sold to
 
 <!--EndFragment-->
 
-
-
 <!--StartFragment-->
 
 They make money for the websites who already own those links, and you make money when people click on your link and buy your products.
@@ -454,8 +440,6 @@ People are very willing to pay to do surveys, because if they complete a survey,
 
 <!--EndFragment-->
 
-
-
 <!--StartFragment-->
 
 Here are some of the ways you can make money from your email list:
@@ -467,19 +451,13 @@ Here are some of the ways you can make money from your email list:
 * Giveaways
 * Amazon
 * A small fee to get added to an exclusive newsletter list
-* Use your list to create a monthly report
+* Use your list to create a monthly repor
 
-  <!--EndFragment-->
-
-  <!--StartFragment-->
-
-  ### Paid monetization
-
-  <!--EndFragment-->
-
-
+<!--EndFragment-->
 
 <!--StartFragment-->
+
+### Paid monetization
 
 Most of the time, people will not pay for guest posts on blogs that they don’t know, because they don’t think you can earn anything from it.
 
@@ -500,8 +478,6 @@ You can get thousands of visitors to your site, just by  accepting a few guest p
 <!--StartFragment-->
 
 For example, if you have a Wordpress plugins niche, and someone wants to sell their latest and greatest Wordpress plugin, they will pay you to allow them to guest post.
-
-a lot of visitors.
 
 <!--EndFragment-->
 
