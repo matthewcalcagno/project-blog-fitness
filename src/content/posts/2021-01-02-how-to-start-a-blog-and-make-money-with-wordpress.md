@@ -324,36 +324,7 @@ You might even create your own money making system, by building a unique and sca
 
 <!--EndFragment-->
 
-<!--StartFragment-->
 
-There are two types of monetization methods, which I’m going to call, free monetization, and paid monetization.
-
-<!--EndFragment-->
-
-<!--StartFragment-->
-
-These two types of monetization methods are very different, so please make sure you know what you’re getting into before you start.
-
-<!--EndFragment-->
-
-<!--StartFragment-->
-
-You’re always better off starting with free monetization, unless you’re ready to experiment and learn with paid monetization.
-
-<!--EndFragment-->
-
-<!--StartFragment-->
-
-If you don’t want to lose your readership, start with free monetization.
-
-<!--EndFragment-->
-
-<!--StartFragment-->
-
-\
- I always recommend the free monetization method, and leave paid monetization for a later stage.
-
-<!--EndFragment-->
 
 <!--StartFragment-->
 
@@ -457,9 +428,7 @@ Here are some of the ways you can make money from your email list:
 
 <!--StartFragment-->
 
-### Paid monetization
-
-Most of the time, people will not pay for guest posts on blogs that they don’t know, because they don’t think you can earn anything from it.
+Most of the time, people will accept guest posts on blogs that they don’t know, because they don’t think they can earn anything from it.
 
 <!--EndFragment-->
 
@@ -471,7 +440,7 @@ But this is not the case.
 
 <!--StartFragment-->
 
-You can get thousands of visitors to your site, just by  accepting a few guest posts to blogs that are in the same niche as you. This usually works when small bloggers want to gain popularity quickly from an already dominated blog.
+You can earn thousands of dollars  just by  accepting a few guest posts to blogs that are in the same niche as you. This usually works when small bloggers want to gain popularity quickly from an already dominated blog.
 
 <!--EndFragment-->
 
@@ -484,12 +453,6 @@ For example, if you have a Wordpress plugins niche, and someone wants to sell th
 <!--StartFragment-->
 
 If the person is willing to pay, you can make thousands of dollars in a single day.
-
-<!--EndFragment-->
-
-<!--StartFragment-->
-
-Once again, this is the type of revenue you can expect from your email lis
 
 <!--EndFragment-->
 
