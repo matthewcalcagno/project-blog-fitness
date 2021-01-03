@@ -13,7 +13,7 @@ featuredImage: /assets/dropshipping-boxes.jpg
 ---
 <!--StartFragment-->
 
-In this article, you’ll learn how to start a dropshipping business. We’ll explain what a dropshipping business is, how to find the right dropshipping business ideas, and everything else you need to know to start dropshipping.
+In this article, you will learn what is dropshipping and how it can be used for your online store (or start an online store). You will also see how it can be used to eliminate a lot of the traditional costs associated with running a store online, and thus help you scale.
 
 <!--EndFragment-->
 
@@ -89,42 +89,6 @@ But before you buy anything, you should ask yourself some questions:
 
 <!--EndFragment-->
 
-> <!--StartFragment-->
->
-> Are you a small business owner looking to start a side business or quit your current one?
->
-> <!--EndFragment-->
->
-> <!--StartFragment-->
->
-> Are you a student looking to earn some cash?
->
-> <!--EndFragment-->
->
-> <!--StartFragment-->
->
-> Are you an individual looking to earn a bit of extra income?
->
-> <!--EndFragment-->
->
-> <!--StartFragment-->
->
-> Are you looking to sell products online but don’t want to deal with shipping costs, inventory, or taxes?
->
-> <!--EndFragment-->
->
-> <!--StartFragment-->
->
-> Are you looking for a way to diversify and make more money?
->
-> <!--EndFragment-->
->
-> <!--StartFragment-->
->
-> Is the idea of managing a store enticing to you?
->
-> <!--EndFragment-->
-
 <!--StartFragment-->
 
 One thing to note before you start making any big purchases, is that you need to work out if you can actually run a dropshipping business.
@@ -136,8 +100,6 @@ One thing to note before you start making any big purchases, is that you need to
 You don’t want to invest hundreds of thousands of dollars, only to discover that it’s too hard. If you don’t know what you’re getting into, you could end up with a $10,000 business that you never make a dime from.
 
 <!--EndFragment-->
-
-
 
 <!--StartFragment-->
 
@@ -222,8 +184,6 @@ In addition, Shopify costs more, meaning you will be able to have more control o
 If you're looking for a platform that will set up your entire business, then choosing WordPress is the best idea. However, if you're looking to grow your business and want the chance to make money without worrrying about servers, writing code, fixing tech issues, then you should consider choosing Shopify.
 
 <!--EndFragment-->
-
-
 
 <!--StartFragment-->
 
