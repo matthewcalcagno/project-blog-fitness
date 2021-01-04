@@ -34,8 +34,6 @@ There are many ways to earn money through affiliate marketing. You can earn a se
 
 <!--EndFragment-->
 
-
-
 <!--StartFragment-->
 
 With the vast array of different affiliate networks to choose from, deciding which one to sign up with and use can be difficult.
@@ -47,8 +45,6 @@ With the vast array of different affiliate networks to choose from, deciding whi
 To help you narrow it down, here are five of the best affiliate networks you can use to generate additional income, and why they're the best of the best.
 
 <!--EndFragment-->
-
-
 
 <!--StartFragment-->
 
@@ -112,6 +108,24 @@ ShareASale has more than 2,000 sellers offering a variety of products and servic
 
 <!--StartFragment-->
 
+## Awin
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
+Awin is the largest affiliate network in the world, and they can earn affiliate revenue up to $1,600 a day. They are not a commission-based affiliate network, but rather a marketplace for brand names, retailers, and other marketers.
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
+There are nearly 2.5 million sites on the Awin network, including such notable brands as Microsoft, Dell, Sony, Samsung, and dozens of others. Their exclusive affiliates include bestsellers and popular sites, such as Smart Money Magazine, Livestrong, and US News & World Report.
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 ## BlueHost
 
 <!--EndFragment-->
@@ -125,9 +139,8 @@ BlueHost's affiliate program is limited, but it does offer a nice range of produ
 <!--StartFragment-->
 
 The affiliate program allows you to earn commissions on each transaction and also to receive a percentage of sales when a BlueHost customer makes a purchase. BlueHost does not charge any monthly fees for its affiliate program.\
+
 <!--EndFragment-->
-
-
 
 <!--StartFragment-->
 
