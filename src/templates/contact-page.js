@@ -52,7 +52,7 @@ const Contact = ({data}) => {
             <label>Message<textarea name="message" required ></textarea></label>
           </p>
           <p className="text-align-right">
-            <button className="button"            
+            <button aria-label="send message" className="button"            
             sx={{
               variant: 'links.button'
             }} type="submit">Send Message <span className="icon -right"><RiSendPlane2Line/></span></button>

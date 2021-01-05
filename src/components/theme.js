@@ -8,7 +8,7 @@ const Theme = () => {
   const [colorMode, setColorMode] = useColorMode()
   return(
     <div sx={themeStyles.modeOption}>
-      <button
+      <button aria-label="change color from either dark mode to light mode, or light mode to dark mode."
         onClick={e => {
           setColorMode(colorMode === 'default' ? 'dark' : 'default')
         }}>

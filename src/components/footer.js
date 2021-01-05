@@ -9,7 +9,7 @@ const Footer = () => (
     }}
   >
     <div className="container">
-      <p>© Copyright Yenom 2021 </p>
+      <p style={{color: "white"}}>© Copyright Yenom 2021 </p>
     </div>
   </footer>
 )
