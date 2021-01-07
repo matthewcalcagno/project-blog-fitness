@@ -38,8 +38,6 @@ Even if you don’t become an entrepreneur, be sure to take a risk. You need to 
 
 <!--EndFragment-->
 
-
-
 <!--StartFragment-->
 
 If you feel like you are ready to take the plunge, keep reading. I have put together the guide below to get you started:
@@ -100,8 +98,6 @@ If you are passionate about a certain type of business and you truly believe tha
 
 <!--EndFragment-->
 
-
-
 <!--StartFragment-->
 
 You don’t need millions of dollars to get started, you just need enough to start.
@@ -125,8 +121,6 @@ Once you have decided what you want to do, the next thing is to act on it.
 You need to get involved in at least one thing that will help you develop your skills. Start with something that will challenge you, but still allow you to learn.
 
 <!--EndFragment-->
-
-
 
 <!--StartFragment-->
 
@@ -169,8 +163,6 @@ You need to put in the time, and the effort.
 Do your research, read books and learn as much as you can about what you are doing.
 
 <!--EndFragment-->
-
-
 
 <!--StartFragment-->
 
@@ -324,13 +316,7 @@ Make sure that you look at your schedule at least twice a week, and make sure th
 
 <!--StartFragment-->
 
-Make sure that you look at your schedule at least twice a week, and make sure that you stick to it.
-
-<!--EndFragment-->
-
-<!--StartFragment-->
-
-I find that if you sit down and work out your schedule, you will find that it is easier to stick to.
+No matter how busy you are, you need to still find the time to set up your schedule.
 
 <!--EndFragment-->
 
@@ -408,7 +394,7 @@ Make sure you keep up to date with the latest trends in the industry, and you wi
 
 <!--StartFragment-->
 
-10. Don’t give up
+## 10. Don’t give up
 
 <!--EndFragment-->
 
