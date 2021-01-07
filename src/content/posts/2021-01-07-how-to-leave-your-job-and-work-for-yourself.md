@@ -197,8 +197,6 @@ If this doesn't go over well, then it might be time to re-think your relationshi
 
 <!--EndFragment-->
 
-
-
 <!--StartFragment-->
 
 You're now in the stage of following your passion, where you can truly be your own boss.
@@ -217,12 +215,6 @@ Maybe you've always wanted to own a restaurant, but have never found the time to
 
 <!--EndFragment-->
 
-> <!--StartFragment-->
->
-> How would you raise the capital to start your business?
->
-> <!--EndFragment-->
-
 <!--StartFragment-->
 
 What resources would you need to get started, such as:
@@ -235,8 +227,6 @@ What resources would you need to get started, such as:
 * A location to do your work
 * Cooking utensils and equipment
 * Seeting up your website
-
-  <!--EndFragment-->
 
 <!--StartFragment-->
 
@@ -322,8 +312,6 @@ If you are planning on becoming a freelancer, for example, then you'll need to f
 
 <!--EndFragment-->
 
-
-
 <!--StartFragment-->
 
 Will you have to invest in a piece of equipment to get started? Do you need to buy equipment for marketing purposes?
@@ -407,8 +395,6 @@ After all of these questions have been answered, it's time to sit down with your
 ## Final Thoughts
 
 <!--EndFragment-->
-
-
 
 <!--StartFragment-->
 
