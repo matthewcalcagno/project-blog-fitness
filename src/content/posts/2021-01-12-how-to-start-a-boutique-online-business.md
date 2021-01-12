@@ -44,8 +44,6 @@ Would you like to start your own online business? If you are going to launch a b
 
 <!--EndFragment-->
 
-
-
 <!--StartFragment-->
 
 ## Getting Started
@@ -130,11 +128,7 @@ Create your online boutique store with Shopify. No business knowledge or special
 
 <!--EndFragment-->
 
-
-
 <!--StartFragment-->
-
-
 
 ## Market Your Products
 
@@ -170,8 +164,6 @@ You can also target people in specific countries. You can determine which countr
 
 <!--EndFragment-->
 
-
-
 <!--StartFragment-->
 
 ## Compete
@@ -188,7 +180,7 @@ There are a number of ways to do this. You can start by selling your products al
 
 ## Final Thoughts
 
-<!--EndFragment-->>
+<!--EndFragment-->
 
 <!--StartFragment-->
 
@@ -196,7 +188,7 @@ No matter what type of online store you choose, the process is fairly simple. Yo
 
 <!--EndFragment-->
 
-<!<!--StartFragment-->
+<!--StartFragment-->
 
 Take your time, and follow these steps to make sure you are marketing your online store effectively. Remember, it takes time to get your online store going, and you need to be patient.
 
