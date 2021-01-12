@@ -1,6 +1,6 @@
 ---
 template: blog-post
-title: How To Make Money at Home for Beginnerrs
+title: How To Make Money at Home for Beginners
 slug: how-to-make-money-at-home-for-beginners
 date: 2021-01-04 13:52
 description: There are hundreds of ways to earn money online at home in 2021.
