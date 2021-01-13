@@ -21,16 +21,16 @@ const SEO = ({ title, description, image, article }) => {
     title: title || defaultTitle,
     description: description || defaultDescription,
     image: `${siteUrl}${image || defaultImage}`,
-    url: `${siteUrl}${pathname}`,
+    url: `${siteUrl}${pathname}/`,
   }
 
   return (
     <Helmet title={seo.title} titleTemplate={titleTemplate}>
       <html lang="en-US"/>
       <meta name="google-site-verification" content="XORw2In3hVANSh9NHw5ACfRRYBdRjGQE2-_SjnxHBBY" />
-      <link rel="alternate" href={seo.url} hreflang="en-us" />
-      <link rel="alternate" href={seo.url} hreflang="en" />
-      <link rel="alternate" href={seo.url} hreflang="x-default" />
+      <link rel="alternate" href={seo.url+ "/"} hreflang="en-us" />
+      <link rel="alternate" href={seo.url+ "/"} hreflang="en" />
+      <link rel="alternate" href={seo.url+ "/"} hreflang="x-default" />
       <meta name="description" content={seo.description} />
       <meta name="image" content={seo.image} />
 

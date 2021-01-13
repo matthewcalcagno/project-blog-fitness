@@ -42,7 +42,7 @@ class Navigation extends React.Component {
 
   render () {
     const listMenuItems = MenuItems.map((menuItem, index) => 
-      <ListLink key={index} to={menuItem.path}>{menuItem.title}</ListLink>
+      <ListLink key={index} to={menuItem.path === "/" ? menuItem.path : menuItem.path +"/"}>{menuItem.title}</ListLink>
     )
     return (
       <nav className="site-navigation" sx={navStyle.menu}>
