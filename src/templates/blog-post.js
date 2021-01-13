@@ -32,7 +32,7 @@ const Pagination = (props) => (
     <ul>
         {(props.previous && props.previous.frontmatter.template === 'blog-post') && (
           <li>
-              <Link to={"/" + props.previous.frontmatter.slug + "/"} rel="prev">
+              <Link to={"/" + props.previous.frontmatter.slug} rel="prev">
                 <p
                   sx={{
                     color: 'muted'
@@ -45,7 +45,7 @@ const Pagination = (props) => (
         )}
         {(props.next && props.next.frontmatter.template === 'blog-post') && (
           <li>
-            <Link to={"/" + props.next.frontmatter.slug + "/"} rel="next">
+            <Link to={"/" + props.next.frontmatter.slug} rel="next">
               <p
                 sx={{
                   color: 'muted'

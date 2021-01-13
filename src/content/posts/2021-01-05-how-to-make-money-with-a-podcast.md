@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: How to Make Money with a Podcast
-slug: how-to-make-money-with-a-podcast
+slug: how-to-make-money-with-a-podcast/
 date: 2021-01-05 11:11
 description: So you're thinking of starting a podcast in 2021 and want to know
   how to make money? The truth is, it's easier than you think. In this post I'll

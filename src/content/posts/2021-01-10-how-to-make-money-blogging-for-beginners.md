@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: How To Make Money Blogging For Beginners
-slug: how-to-make-money-blogging-for-beginners
+slug: how-to-make-money-blogging-for-beginners/
 date: 2021-01-10 09:44
 description: If you are someone who is new to blogging, perhaps for the first
   time or for the umpteenth time, then the idea of making money with blogging

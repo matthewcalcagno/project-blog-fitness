@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: What Do You Need To Know To Start A Small Online Business
-slug: what-do-you-need-to-start-a-small-online-business
+slug: what-do-you-need-to-start-a-small-online-business/
 date: 2021-01-12 20:17
 description: >
   Starting a small business is easier than it looks. With all the amazing

@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: How To Become An Entrepreneur
-slug: how-to-become-an-entrepreneur
+slug: how-to-become-an-entrepreneur/
 date: 2021-01-07 18:42
 description: Even if you don’t become an entrepreneur, be sure to take a risk.
   You need to push yourself to the limits, and in the end you may end up

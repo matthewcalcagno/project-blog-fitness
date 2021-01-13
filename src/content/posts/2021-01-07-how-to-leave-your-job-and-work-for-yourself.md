@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: How To Leave Your Job And Work For Yourself
-slug: how-to-leave-your-job-and-work-for-yourself
+slug: how-to-leave-your-job-and-work-for-yourself/
 date: 2021-01-07 18:17
 description: How to quit your job and be your own boss? You'll soon find out
   what it's like to both work and live in a new world, without a boss,
