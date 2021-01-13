@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: How to Budget and Save Money
-slug: how-to-budget-and-save-money/
+slug: how-to-budget-and-save-money
 date: 2021-01-11 21:13
 description: >
   If you’re trying to live on a budget, you’ve heard the message a million

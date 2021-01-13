@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: What is affiliate marketing
-slug: what-is-affiliate-marketing/
+slug: what-is-affiliate-marketing
 date: 2021-01-04 08:43
 description: Affiliate Marketing is when an online seller allows an online
   purchaser to make a purchase using their website, or where an online seller

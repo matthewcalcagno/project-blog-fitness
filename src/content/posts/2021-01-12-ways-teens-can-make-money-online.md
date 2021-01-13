@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Ways Teens Can Make Money Online
-slug: ways-teens-can-make-money-online/
+slug: ways-teens-can-make-money-online
 date: 2021-01-12 08:15
 description: There are plenty of opportunities for teens to make money while
   pursuing their interests online. The number of online jobs out there is

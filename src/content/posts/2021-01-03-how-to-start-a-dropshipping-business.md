@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: How to start a Dropshipping business
-slug: how-to-start-a-dropshipping-business/
+slug: how-to-start-a-dropshipping-business
 date: 2021-01-03 11:25
 description: Dropshipping is a subsector of eCommerce in which you purchase
   items directly from manufacturers and have them shipped directly to customers.
