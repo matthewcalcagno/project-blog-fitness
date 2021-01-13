@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Stupid-Simple Ways To Make Money As An Artist
-slug: how-to-make-money-as-an-artist
+slug: how-to-make-money-as-an-artist/
 date: 2021-01-06 07:50
 description: >
   Thanks to the internet, it’s easier than ever to share your work with people

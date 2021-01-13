@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: How To Become An Influencer
-slug: how-to-become-an-influencer
+slug: how-to-become-an-influencer/
 date: 2021-01-07 19:04
 description: Influencers are people who have a large and established presence in
   an area, say, the fashion world, and who can draw in new clients and

@@ -1,6 +1,6 @@
 ---
 template: about-page
-slug: /about
+slug: /about/
 title: About Yenom
 ---
 <!--StartFragment-->

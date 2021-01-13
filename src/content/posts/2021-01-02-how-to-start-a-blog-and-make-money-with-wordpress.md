@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: How to start a blog and make money with Wordpress
-slug: how-to-start-a-blog-and-make-money-with-wordpress
+slug: how-to-start-a-blog-and-make-money-with-wordpress/
 date: 2021-01-02 11:17
 description: >
   Believe it or not, but you can easily create a blog and get paid, it’s quite

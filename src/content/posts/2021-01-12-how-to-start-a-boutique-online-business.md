@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: "How To Start A Boutique Business Online "
-slug: how-to-start-a-boutique-online-business
+slug: how-to-start-a-boutique-online-business/
 date: 2021-01-12 18:44
 description: >
   Start a Boutique Online and earn 5 to 20 percent of your revenue in just five
