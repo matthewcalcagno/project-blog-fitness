@@ -27,7 +27,7 @@ With billions of users on Facebook, Instagram, Twitter, and YouTube, it is reall
 
 <!--StartFragment-->
 
-## How Much Money Does A Youtuber Make With 100k Subs 
+## How Much Money Does A Youtuber Make With 100k Subs
 
 <!--EndFragment-->
 
@@ -148,11 +148,5 @@ YouTube will review your video and give you some feedback on it. If your video i
 <!--StartFragment-->
 
 You should be able to make between $1 and $100 per video that you place ads on. If you place too many ads on your video, YouTube will punish you by stopping you from placing any more ads on the video. You will need to pay extra money to make a video place ads, but you will make more money from ads than if you made it yourself. You should be able to place ads on most videos.
-
-<!--EndFragment-->
-
-<!--StartFragment-->
-
-## How Much Money Can You Make on YouTube?
 
 <!--EndFragment-->
