@@ -19,7 +19,7 @@ When you’re in your twenties or thirties, the world’s financial options can 
 
 <!--StartFragment-->
 
-##  Save All Your Money
+## Save All Your Money
 
 <!--EndFragment-->
 
@@ -40,8 +40,6 @@ For example, buying groceries is easy. A loaf of bread, a bag of apples and a ja
 You can save money on non-essential items by putting your purchases on a coupon saving site. Grocery stores often have coupons that you can print out and use right there in the store.
 
 <!--EndFragment-->
-
-
 
 <!--StartFragment-->
 
@@ -159,7 +157,7 @@ Before you even consider building up more debt, take care of that stuff. No one 
 
 <!--StartFragment-->
 
-3. Frugal Living
+## Frugal Living
 
 <!--EndFragment-->
 
@@ -204,8 +202,6 @@ My food costs are also low – $40-50 a month for groceries. That means I can ea
 One of the things that makes me so frugal is my living situation. The only things I get to do with my money is save it.
 
 <!--EndFragment-->
-
-
 
 <!--StartFragment-->
 
