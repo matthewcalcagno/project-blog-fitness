@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Follow These Tips To Manage Your Money Wisely
-slug: 5-best-passive-income-ideas-in-2021
+slug: manage-and-save-your-money-wisely-2021
 date: 2021-07-08 21:34
 description: You don't have to be an expert at personal finance or save a lot of
   money in order to be financially secure. Adopt these habits and you'll become
