@@ -5,30 +5,30 @@ $breakpoint-lg: 1022px;
 $breakpoint-xl: 1200px;
 
 :root {
-
-	--font-family: -apple-system, BlinkMacSystemFont, avenir next, avenir, helvetica neue, helvetica, Ubuntu, roboto, noto, segoe ui, arial, sans-serif;
-	--font-family-mono: Menlo, Consolas, Monaco, Liberation Mono, Lucida Console, monospace;
+  --font-family: -apple-system, BlinkMacSystemFont, avenir next, avenir,
+    helvetica neue, helvetica, Ubuntu, roboto, noto, segoe ui, arial, sans-serif;
+  --font-family-mono: Menlo, Consolas, Monaco, Liberation Mono, Lucida Console,
+    monospace;
   --font-size-small: 12px;
-  
-  --primary-color: #252525;
-  --header-bg: #252525;
 
-  --home-link-color: #A1613F;
-  --home-link-hover-color:  #ffffff;
+  --primary-color: #ad4b44;
+  --header-bg: #ad4b44;
+
+  --home-link-color: #a1613f;
+  --home-link-hover-color: #ffffff;
 
   --button-color: #ffffff;
-  --button-alternate-color: #252525;
+  --button-alternate-color: #ad4b44;
 
-  --post-link-color: #0F070B;
-
+  --post-link-color: #0f070b;
 
   --nav-link-hover-bg: #111;
-  --text-color-meta: rgba(0,0,0,0.5);
+  --text-color-meta: rgba(0, 0, 0, 0.5);
 
   --label-text: #777;
-  --input-focus-border: #83AAAC;
-  
-  // CSS Grid Utility
-  --grid-gap: 30px; 
+  --input-focus-border: #83aaac;
+  --post-title-color: #a92e25;
 
+  // CSS Grid Utility
+  --grid-gap: 30px;
 }

@@ -1,11 +1,10 @@
 ---
 template: index-page
 slug: /
-title: Thoughts, stories and ideas.
-tagline: Find articles related to lifestyle and wealth
-featuredImage: /assets/yenom-home.jpg
+title: Para Fanáticos de Bricolaje y Restauracion
+tagline: Consejos sobre Decoracion, Jardineria, Bricolaje, Carpinteria, Restauracion, Trucos de andar por casa
+featuredImage: /assets/pagina-inicial-renoconsejos-min.jpg
 cta:
-  ctaText: Read more about us
-  ctaLink: /about/
+  ctaText: Leer más sobre nosotros
+  ctaLink: /sobre-nosotros/
 ---
-Read about new ways to make extra income online. We do all the experimenting so you don't have to.

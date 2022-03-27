@@ -2,14 +2,14 @@
 import { jsx } from 'theme-ui'
 
 const Footer = () => (
-  <footer 
+  <footer
     className="site-footer"
     sx={{
-      bg: 'primary'
+      bg: "primary",
     }}
   >
     <div className="container">
-      <p style={{color: "white"}}>© Copyright Yenom 2021 </p>
+      <p style={{ color: "white" }}>© Derechos de autor Renoconsejos 2022 </p>
     </div>
   </footer>
 )

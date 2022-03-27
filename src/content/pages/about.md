@@ -1,8 +1,9 @@
 ---
 template: about-page
-slug: /about/
+slug: /sobre-nosotros/
 title: About Yenom
 ---
+
 <!--StartFragment-->
 
 Yenom (clever name, right?) is a website dedicated to help earn extra income online. Their site has been very popular, with millions of visitors per month. They help people make money on the internet and make it easy. It is the perfect place to go for everything that relates to earning money online. They offer a variety of different ways to earn extra income online, which will definitely help you make a comfortable living.
@@ -27,10 +28,8 @@ The blog posts also contain articles that can help you set up your own website. 
 
 <!--EndFragment-->
 
-
-
 <!--StartFragment-->
 
-The blog posts on Yenom are of great value to anyone that wants to make money online. Their blog is full of useful information that will help you make money online. There are dozens of useful articles on the website, and you will probably find at least one that will be of great value to you. 
+The blog posts on Yenom are of great value to anyone that wants to make money online. Their blog is full of useful information that will help you make money online. There are dozens of useful articles on the website, and you will probably find at least one that will be of great value to you.
 
 <!--EndFragment-->

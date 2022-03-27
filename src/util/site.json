@@ -1,9 +1,9 @@
 {
   "meta": {
-    "title": "Yenom",
+    "title": "Renoconsejos",
     "titleTemplate": "%s",
-    "description": "Read about new ways to make extra income online. We do all the experimenting so you don't have to.",
-    "siteUrl": "https://yenom.netlify.app",
+    "description": "Artículos sobre Jardineria, Decoracion, Carpinteria, Bricolaje y Restauracion.",
+    "siteUrl": "https://renoconsejos.netlify.app",
     "image": "/assets/yenom-nav.png",
     "iconimage": "/assets/yenom-favicon.png",
     "twitterUsername": ""

@@ -52,23 +52,23 @@ export const blogListQuery = graphql`
     }
   }
 `
-const Pagination = (props) => (
-  <div 
-    className="pagination"
-    sx={styles.pagination}
-  >
+const Pagination = props => (
+  <div className="pagination" sx={styles.pagination}>
     <ul>
       {!props.isFirst && (
         <li>
-          <Link to={props.prevPage } rel="prev">
-          <span className="icon -left"><RiArrowLeftLine/></span> Previous
+          <Link to={props.prevPage} rel="prev">
+            <span className="icon -left">
+              <RiArrowLeftLine />
+            </span>{" "}
+            Anterior
           </Link>
         </li>
       )}
       {Array.from({ length: props.numPages }, (_, i) => (
-        <li key={`pagination-number${i + 1}`} >
+        <li key={`pagination-number${i + 1}`}>
           <Link
-            to={`${props.blogSlug}${i === 0 ? '' : i + 1 + "/"}`}
+            to={`${props.blogSlug}${i === 0 ? "" : i + 1 + "/"}`}
             className={props.currentPage === i + 1 ? "is-active num" : "num"}
           >
             {i + 1}
@@ -77,8 +77,11 @@ const Pagination = (props) => (
       ))}
       {!props.isLast && (
         <li>
-          <Link to={ props.nextPage+ "/"} rel="next">
-            Next <span className="icon -right"><RiArrowRightLine/></span>
+          <Link to={props.nextPage + "/"} rel="next">
+            Siguiente
+            <span className="icon -right">
+              <RiArrowRightLine />
+            </span>
           </Link>
         </li>
       )}
@@ -114,13 +117,21 @@ class BlogIndex extends React.Component {
     return (
       <Layout className="blog-page">
         <SEO
-          title={"Yenom list of articles — Page " + currentPage + " of " + numPages}
-          description={"Yenom list of articles - currently on page " + currentPage + " of " + numPages }
+          title={
+            "Lista de artículos Renoconsejos — Página " +
+            currentPage +
+            " de " +
+            numPages
+          }
+          description={
+            "Lista de artículos Renoconsejos - actualmente en la página " +
+            currentPage +
+            " de " +
+            numPages
+          }
         />
-        <h1>Blog</h1>
-        <div className="grids col-1 sm-2 lg-3">
-          {posts}
-        </div>
+        <h1>Artículos</h1>
+        <div className="grids col-1 sm-2 lg-3">{posts}</div>
         <Pagination {...props} />
       </Layout>
     )
